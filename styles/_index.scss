@@ -1,0 +1,16 @@
+.container {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: lightgreen;
+}
+
+.content {
+  width: 100%;
+  max-width: 1400px;
+  background: #fff;
+  height: 100%;
+  color: black;
+}
